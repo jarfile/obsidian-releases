@@ -6676,5 +6676,12 @@
     "author": "Sparsh Yadav",
     "description": "Quickly navigate and create notes through OS shortcut keys.",
     "repo": "tmfelwu/obsidian-inbox"
-  }
+  },
+  {
+    "id": "obsidian-hadith-lookup-plugin"
+    "name": "Hadith Lookup",
+    "author": "Adnan Mukhtar",
+    "description": "Quickly and easily insert Quran and Hadith text and translation callouts."
+    "repo": "jarfile/obsidian-hadith-lookup-plugin"
+   }
 ]
